@@ -7,5 +7,14 @@
     "python.testing.pytestEnabled": true,
     "python-envs.defaultEnvManager": "ms-python.python:venv",
     "python-envs.defaultPackageManager": "ms-python.python:pip",
-    "workbench.colorTheme": "Dracula At Night"
+    "workbench.colorTheme": "Light 2026",
+    "workbench.activityBar.autoHide": true,
+    "workbench.activityBar.compact": true,
+    "workbench.iconTheme": "vs-seti",
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": false
+    },
+    "workbench.editor.decorations.colors": true,
+    "workbench.sideBar.location": "left",
+    "workbench.preferredLightColorTheme": "Dracula Theme Soft"
 }
