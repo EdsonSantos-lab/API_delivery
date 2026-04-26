@@ -1,5 +1,9 @@
 # API de Delivery com FastAPI
 
+<p align="center">
+  <img src="images/swagger.png" width="700"/>
+</p>
+
 projeto foi desenvolvido com o objetivo de aplicar conceitos modernos de backend, incluindo:
 
 Criação de APIs RESTful
